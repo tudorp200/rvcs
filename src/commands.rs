@@ -1,0 +1,11 @@
+pub mod add;
+pub mod branch;
+pub mod checkout;
+pub mod commit;
+pub mod dec_object;
+pub mod diff;
+pub mod init;
+pub mod ls_files;
+pub mod merge;
+pub mod status;
+pub mod write_tree;
