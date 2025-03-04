@@ -10,7 +10,6 @@ Branching: Create and manage branches to work on different features simultaneous
 
 Efficient Storage: Uses a delta-based system to store only changes between versions.
 
-Rust-Powered: Built with Rust, ensuring safety and performance.
 
 ## Installation
 ### Prerequisites
@@ -18,8 +17,8 @@ Rust(install using rustup)
 ### Steps
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/rust-vcs.git
-cd rust-vcs
+git clone https://github.com/tudorp200/rvcs
+cd rvcs
 ```
 2. Build the project 
 ```bash
